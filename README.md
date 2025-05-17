@@ -14,15 +14,9 @@ Hedefim, savunma sanayiine yönelik projeler geliştirerek hem teknolojik geliş
 - 🔐 Savunma Sanayii Uygulamaları
 - 🧠 Algoritmalar ve Problem Çözme
 - 🛠 Donanım + Yazılım Entegrasyonu
-<p align="center">
-  <!-- OpenAI / ChatGPT -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/OpenAI_Logo.svg/2048px-OpenAI_Logo.svg.png" alt="OpenAI" height="40"/>
-  <!-- Claude / Anthropic -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Anthropic_logo.svg/1280px-Anthropic_logo.svg.png" alt="Claude" height="40"/>
-  <!-- Gemini / Google DeepMind -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Google_Gemini_logo.svg/2048px-Google_Gemini_logo.svg.png" alt="Gemini" height="40"/>
-  <!-- Python -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40"/>
+<p align="left">
+  <img src="https://img.icons8.com/clouds/100/artificial-intelligence.png" alt="Yapay Zeka" height="60"/>
+  <img src="https://img.icons8.com/color/100/python.png" alt="Python" height="60"/>
 </p>
 
 
