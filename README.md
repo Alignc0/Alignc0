@@ -1,7 +1,7 @@
 <h1 align="center">👋 Merhaba, ben Ali</h1>
 
 <p align="center">
-  Yapay zeka ve Python dünyasında ilerleyen bir geliştiriciyim.<br>
+  Yapay zeka ve Python dünyasında adım adım ilerleyen bir geliştiriciyim.<br>
 </p>
 
 
