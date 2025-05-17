@@ -5,52 +5,39 @@ Merhaba! Ben yapay zeka ve Python dili üzerine kendini geliştirmeye odaklanmı
 Hedefim, savunma sanayiine yönelik projeler geliştirerek hem teknolojik gelişime katkı sağlamak hem de ülkem için katma değer yaratmak.
 
 ---
-# Merhaba, Hoş Geldiniz! 👋
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/gemini.png" alt="Gemini Logo" width="100" />
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/spark.png" alt="Spark Logo" width="100" />
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/orbit.png" alt="Orbit Logo" width="100" />
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/kubernetes.png" alt="Kubernetes Logo" width="100" />
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/python.png" alt="Python Logo" width="100" />
-</div>
+### 🚀 İlgi Alanlarım
 
-## 🚀 İlgi Alanlarım
+<p align="left">
+  <!-- ChatGPT -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_logo_black.svg" alt="ChatGPT" height="40"/>
 
-- 🤖 Yapay Zeka (Makine Öğrenimi, LLM'ler, Derin Öğrenme)
-- 🎯 Prompt Mühendisliği ve Etkili Soru Sorma Teknikleri
-- 🧩 Python ile Proje Geliştirme
-- 🔐 Savunma Sanayii Uygulamaları
-- 🧠 Algoritmalar ve Problem Çözme
-- 🛠 Donanım + Yazılım Entegrasyonu
+  <!-- Gemini -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Google_Gemini_logo.svg" alt="Gemini" height="40"/>
 
-## 💻 Teknolojiler & Araçlar
+  <!-- Claude -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Anthropic_logo.svg" alt="Claude" height="40"/>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+  <!-- Python -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40"/>
 
-## 📊 GitHub İstatistiklerim
+  <!-- Prompt (Terminal icon minimalist) -->
+  <img src="https://img.icons8.com/ios/50/000000/command-line.png" alt="Prompt Engineering" height="40"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-## 📫 İletişim
-
-- LinkedIn: [LinkedIn Profilim](https://www.linkedin.com/in/USERNAME/)
-- Twitter: [@USERNAME](https://twitter.com/USERNAME)
-- E-posta: mail@example.com
+- 🤖 Yapay Zeka (LLM, Chatbot, Derin Öğrenme)
+- 🧠 Prompt Mühendisliği (Komut Yazımı & İnce Ayar)
+- 🐍 Python ile Proje ve Otomasyon
+- 💡 Problem Çözme & Analitik Düşünce
+- 🛡️ Savunma Sanayi Uygulamaları
 
 ---
 
-⭐️ [USERNAME](https://github.com/USERNAME) tarafından
+### 🛠 Üzerinde Çalıştığım Projeler
 
-
----
+- **Akıllı Silah Kılıfı & Yüzük Sistemi**: Emniyet güçleri için güvenli silah kullanımı sağlayan mekanik + yazılım destekli sistem.  
+- **Yapay Zeka Tabanlı Oyunlar**: Python kullanarak geliştirdiğim eğlenceli ve etkileşimli oyunlar.  
+- **Python Eğitim Uygulamaları**: Kendi öğrenme sürecimi destekleyen küçük araçlar, scriptler ve mini projeler.
 
 ---
 
@@ -63,7 +50,7 @@ Kendimi savunma teknolojileri alanında uzmanlaştırmak. Hem yazılım hem de d
 ### 📫 Bana Ulaşın
 
 - 📧 Mail: alignc0@gmail.com  
-- 🌐 [LinkedIn (https://www.linkedin.com/in/ali-gen%C3%A7-567785246/)]
+- 🌐 [LinkedIn (Varsa ekleyebilirim)]
 - 🧠 Yeni şeyler öğrenmeye ve ekip çalışmasına her zaman açığım!
 
 ---
