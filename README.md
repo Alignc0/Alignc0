@@ -9,27 +9,26 @@ Hedefim, savunma sanayiine yönelik projeler geliştirerek hem teknolojik geliş
 ### 🚀 İlgi Alanlarım
 
 <p align="left">
-  <!-- ChatGPT -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_logo_black.svg" alt="ChatGPT" height="40"/>
+  <!-- ChatGPT (OpenAI) -->
+  <img src="https://raw.githubusercontent.com/mistval/ChatGPT-Icons/main/dark-bg/openai-logo.png" alt="ChatGPT" height="40"/>
 
   <!-- Gemini -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Google_Gemini_logo.svg" alt="Gemini" height="40"/>
+  <img src="https://raw.githubusercontent.com/mistval/ChatGPT-Icons/main/white-bg/gemini-logo-white-bg.png" alt="Gemini" height="40"/>
 
   <!-- Claude -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Anthropic_logo.svg" alt="Claude" height="40"/>
+  <img src="https://raw.githubusercontent.com/mistval/ChatGPT-Icons/main/white-bg/anthropic-logo-white-bg.png" alt="Claude" height="40"/>
 
   <!-- Python -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40"/>
 
-  <!-- Prompt (Terminal icon minimalist) -->
-  <img src="https://img.icons8.com/ios/50/000000/command-line.png" alt="Prompt Engineering" height="40"/>
+  <!-- Prompt Engineering (Terminal icon) -->
+  <img src="https://img.icons8.com/ios/50/command-line.png" alt="Prompt Engineering" height="40"/>
 </p>
 
-- 🤖 Yapay Zeka (LLM, Chatbot, Derin Öğrenme)
-- 🧠 Prompt Mühendisliği (Komut Yazımı & İnce Ayar)
-- 🐍 Python ile Proje ve Otomasyon
-- 💡 Problem Çözme & Analitik Düşünce
-- 🛡️ Savunma Sanayi Uygulamaları
+- 🤖 Yapay Zeka (LLM'ler, Chatbotlar, Derin Öğrenme)
+- 🧠 Prompt Mühendisliği (Komut Tasarımı & İnce Ayar)
+- 🐍 Python ile Proje Geliştirme ve Otomasyon
+- 🔐 Savunma Sanayi Odaklı Uygulamalar
 
 ---
 
