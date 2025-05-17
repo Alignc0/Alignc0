@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Merhaba, ben Ali!  
+## 🧠 Yapay Zeka, Python ve Savunma Sanayii Meraklısı
 
-<!--
-**Alignc0/Alignc0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Merhaba! Ben yapay zeka ve Python dili üzerine kendini geliştirmeye odaklanmış, çözüm odaklı ve analitik düşünme becerilerine sahip bir yazılım geliştiriciyim.  
+Hedefim, savunma sanayiine yönelik projeler geliştirerek hem teknolojik gelişime katkı sağlamak hem de ülkem için katma değer yaratmak.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 İlgi Alanlarım
+
+- 🤖 Yapay Zeka (Makine Öğrenimi, Derin Öğrenme)
+- 🧩 Python ile Proje Geliştirme
+- 🔐 Savunma Sanayii Uygulamaları
+- 🧠 Algoritmalar ve Problem Çözme
+- 🛠 Donanım + Yazılım Entegrasyonu
+
+---
+
+---
+
+### 🎯 Hedefim Nedir?
+
+Kendimi savunma teknolojileri alanında uzmanlaştırmak. Hem yazılım hem de donanımın bir araya geldiği inovatif projeler üretmek. Yapay zekanın askeri ve güvenlik alanındaki potansiyelini ortaya koyacak çözümler geliştirmek istiyorum.
+
+---
+
+### 📫 Bana Ulaşın
+
+- 📧 Mail: alignc0@gmail.com  
+- 🌐 [LinkedIn (https://www.linkedin.com/in/ali-gen%C3%A7-567785246/)]
+- 🧠 Yeni şeyler öğrenmeye ve ekip çalışmasına her zaman açığım!
+
+---
+
+> 🛠 “Kod yazmak sadece bir beceri değil, geleceği şekillendirme aracıdır.”  
