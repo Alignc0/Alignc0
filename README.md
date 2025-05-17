@@ -8,14 +8,14 @@ Hedefim, savunma sanayiine yönelik projeler geliştirerek hem teknolojik geliş
 ### 🚀 İlgi Alanlarım
 
 <p align="left">
-  <!-- OpenAI / ChatGPT -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/OpenAI_Logo.svg/2048px-OpenAI_Logo.svg.png" alt="OpenAI" height="40"/>
+  <!-- ChatGPT / OpenAI -->
+  <img src="https://raw.githubusercontent.com/mistval/ChatGPT-Icons/main/white-bg/openai-logo-white-bg.png" alt="ChatGPT" height="40"/>
 
   <!-- Claude / Anthropic -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Anthropic_logo.svg/1280px-Anthropic_logo.svg.png" alt="Claude" height="40"/>
+  <img src="https://raw.githubusercontent.com/mistval/ChatGPT-Icons/main/white-bg/anthropic-logo-white-bg.png" alt="Claude" height="40"/>
 
   <!-- Gemini / Google DeepMind -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Google_Gemini_logo.svg/2048px-Google_Gemini_logo.svg.png" alt="Gemini" height="40"/>
+  <img src="https://raw.githubusercontent.com/mistval/ChatGPT-Icons/main/white-bg/gemini-logo-white-bg.png" alt="Gemini" height="40"/>
 
   <!-- Python -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40"/>
