@@ -42,7 +42,7 @@ I want to specialize in defense technologies. I want to produce innovative proje
 
 - 📧 Mail: alignc3825@gmail.com  
 - 🌐 [LinkedIn (https://www.linkedin.com/in/ali-gen%C3%A7-567785246/)]
-- 🧠 Yeni şeyler öğrenmeye ve ekip çalışmasına her zaman açığım!
+- 🧠 I am always open to learning new things and working in teams!
 
 ---
 
