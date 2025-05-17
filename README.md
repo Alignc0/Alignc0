@@ -35,7 +35,7 @@ Hedefim, savunma sanayiine yönelik projeler geliştirerek hem teknolojik geliş
 
 ### 🎯 Hedefim Nedir?
 
-Kendimi savunma teknolojileri alanında uzmanlaştırmak. Hem yazılım hem de donanımın bir araya geldiği inovatif projeler üretmek. Yapay zekanın askeri ve güvenlik alanındaki potansiyelini ortaya koyacak çözümler geliştirmek istiyorum.
+Savunma teknolojileri alanında uzmalaşmak. Hem yazılım hem de donanımın bir araya geldiği inovatif projeler üretmek. Yapay zekanın askeri ve güvenlik alanındaki potansiyelini ortaya koyacak çözümler geliştirmek istiyorum.
 
 ---
 
