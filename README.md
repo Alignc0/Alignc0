@@ -37,8 +37,8 @@ Kendimi savunma teknolojileri alanında uzmanlaştırmak. Hem yazılım hem de d
 
 ### 📫 Bana Ulaşın
 
-- 📧 Mail: alignc0@gmail.com  
-- 🌐 [LinkedIn (Varsa ekleyebilirim)]
+- 📧 Mail: alignc3825@gmail.com  
+- 🌐 [LinkedIn (https://www.linkedin.com/in/ali-gen%C3%A7-567785246/)]
 - 🧠 Yeni şeyler öğrenmeye ve ekip çalışmasına her zaman açığım!
 
 ---
