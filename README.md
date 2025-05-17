@@ -14,21 +14,16 @@ Hedefim, savunma sanayiine yönelik projeler geliştirerek hem teknolojik geliş
 - 🔐 Savunma Sanayii Uygulamaları
 - 🧠 Algoritmalar ve Problem Çözme
 - 🛠 Donanım + Yazılım Entegrasyonu
-
-<p align="left">
+<p align="center">
   <!-- OpenAI / ChatGPT -->
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/OpenAI_Logo.svg/2048px-OpenAI_Logo.svg.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.m.wikipedia.org%2Fwiki%2FDosya%3AChatGPT-Logo.svg&psig=AOvVaw2KzAhc17uDXY9gOL43RtBI&ust=1747581129409000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKD4kLnlqo0DFQAAAAAdAAAAABAE)" alt="OpenAI" height="40"/>
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/OpenAI_Logo.svg/2048px-OpenAI_Logo.svg.png" alt="OpenAI" height="40"/>
   <!-- Claude / Anthropic -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Anthropic_logo.svg/1280px-Anthropic_logo.svg.png" alt="Claude" height="40"/>
-
   <!-- Gemini / Google DeepMind -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Google_Gemini_logo.svg/2048px-Google_Gemini_logo.svg.png" alt="Gemini" height="40"/>
-
   <!-- Python -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40"/>
 </p>
-
 
 
 ---
