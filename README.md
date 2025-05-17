@@ -5,8 +5,7 @@
 </p>
 
 
-Merhaba! Ben yapay zeka ve Python dili üzerine kendini geliştirmeye odaklanmış, çözüm odaklı ve analitik düşünme becerilerine sahip bir yazılım geliştiriciyim.  
-Hedefim, savunma sanayiine yönelik projeler geliştirerek hem teknolojik gelişime katkı sağlamak hem de ülkem için katma değer yaratmak.
+Hello! I am a software developer focused on improving myself on artificial intelligence and Python language, with solution-oriented and analytical thinking skills. My goal is to contribute to technological development and create added value for my country by developing projects for the defense industry.
 
 ---
 
