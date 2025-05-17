@@ -8,16 +8,17 @@ Hedefim, savunma sanayiine yönelik projeler geliştirerek hem teknolojik geliş
 
 ### 🚀 İlgi Alanlarım
 
-<p align="left">
-  <img src="https://img.icons8.com/clouds/100/artificial-intelligence.png" alt="Yapay Zeka" height="60"/>
-  <img src="https://img.icons8.com/color/100/python.png" alt="Python" height="60"/>
-</p>
-
 - 🤖 Yapay Zeka (Makine Öğrenimi, Derin Öğrenme)
 - 🧩 Python ile Proje Geliştirme
 - 🔐 Savunma Sanayii Uygulamaları
 - 🧠 Algoritmalar ve Problem Çözme
 - 🛠 Donanım + Yazılım Entegrasyonu
+
+ <p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" height="50"/>
+  <img src="https://img.icons8.com/color/100/python.png" alt="Python" height="50"/>
+</p>
+
 
 
 ---
