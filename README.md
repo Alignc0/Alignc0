@@ -8,20 +8,20 @@ Hedefim, savunma sanayiine yönelik projeler geliştirerek hem teknolojik geliş
 ### 🚀 İlgi Alanlarım
 
 <p align="left">
-  <!-- ChatGPT / OpenAI -->
-  <img src="https://raw.githubusercontent.com/mistval/ChatGPT-Icons/main/white-bg/openai-logo-white-bg.png" alt="ChatGPT" height="40"/>
+  <!-- ChatGPT / OpenAI (Siyah Arka Planlı) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/OpenAI_Logo.svg/128px-OpenAI_Logo.svg.png" alt="ChatGPT" height="40" style="background-color:#000000; padding:5px; border-radius:5px;"/>
 
-  <!-- Claude / Anthropic -->
-  <img src="https://raw.githubusercontent.com/mistval/ChatGPT-Icons/main/white-bg/anthropic-logo-white-bg.png" alt="Claude" height="40"/>
+  <!-- Claude / Anthropic (Beyaz Arka Planlı) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Anthropic_logo.svg" alt="Claude" height="40" style="background-color:#ffffff; padding:5px; border-radius:5px;"/>
 
-  <!-- Gemini / Google DeepMind -->
-  <img src="https://raw.githubusercontent.com/mistval/ChatGPT-Icons/main/white-bg/gemini-logo-white-bg.png" alt="Gemini" height="40"/>
+  <!-- Gemini / Google DeepMind (Beyaz Arka Planlı) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Google_Gemini_logo.svg" alt="Gemini" height="40" style="background-color:#ffffff; padding:5px; border-radius:5px;"/>
 
-  <!-- Python -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40"/>
+  <!-- Python (Beyaz Arka Planlı) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40" style="background-color:#ffffff; padding:5px; border-radius:5px;"/>
 
-  <!-- Prompt Engineering -->
-  <img src="https://img.icons8.com/ios/50/command-line.png" alt="Prompt Engineering" height="40"/>
+  <!-- Prompt Engineering (Beyaz Arka Planlı) -->
+  <img src="https://img.icons8.com/ios/50/000000/command-line.png" alt="Prompt Engineering" height="40" style="background-color:#ffffff; padding:5px; border-radius:5px;"/>
 </p>
 
 - 🤖 Yapay Zeka (Makine Öğrenimi, LLM’ler, Derin Öğrenme)
