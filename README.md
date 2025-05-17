@@ -8,35 +8,18 @@ Hedefim, savunma sanayiine yönelik projeler geliştirerek hem teknolojik geliş
 
 ### 🚀 İlgi Alanlarım
 
-<p align="left">
-  <!-- ChatGPT (OpenAI) -->
-  <img src="https://raw.githubusercontent.com/mistval/ChatGPT-Icons/main/dark-bg/openai-logo.png" alt="ChatGPT" height="40"/>
+- 🤖 Yapay Zeka (Makine Öğrenimi, Derin Öğrenme)
+- 🎯 Prompt Mühendisliği ve Etkili Soru Sorma Teknikleri
+- 🧩 Python ile Proje Geliştirme
+- 🔐 Savunma Sanayii Uygulamaları
+- 🧠 Algoritmalar ve Problem Çözme
+- 🛠 Donanım + Yazılım Entegrasyonu
 
-  <!-- Gemini -->
-  <img src="https://raw.githubusercontent.com/mistval/ChatGPT-Icons/main/white-bg/gemini-logo-white-bg.png" alt="Gemini" height="40"/>
+  ![download](https://github.com/user-attachments/assets/41ff65a8-a877-4271-94e6-09a88271a13b)
 
-  <!-- Claude -->
-  <img src="https://raw.githubusercontent.com/mistval/ChatGPT-Icons/main/white-bg/anthropic-logo-white-bg.png" alt="Claude" height="40"/>
-
-  <!-- Python -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40"/>
-
-  <!-- Prompt Engineering (Terminal icon) -->
-  <img src="https://img.icons8.com/ios/50/command-line.png" alt="Prompt Engineering" height="40"/>
-</p>
-
-- 🤖 Yapay Zeka (LLM'ler, Chatbotlar, Derin Öğrenme)
-- 🧠 Prompt Mühendisliği (Komut Tasarımı & İnce Ayar)
-- 🐍 Python ile Proje Geliştirme ve Otomasyon
-- 🔐 Savunma Sanayi Odaklı Uygulamalar
 
 ---
 
-### 🛠 Üzerinde Çalıştığım Projeler
-
-- **Akıllı Silah Kılıfı & Yüzük Sistemi**: Emniyet güçleri için güvenli silah kullanımı sağlayan mekanik + yazılım destekli sistem.  
-- **Yapay Zeka Tabanlı Oyunlar**: Python kullanarak geliştirdiğim eğlenceli ve etkileşimli oyunlar.  
-- **Python Eğitim Uygulamaları**: Kendi öğrenme sürecimi destekleyen küçük araçlar, scriptler ve mini projeler.
 
 ---
 
