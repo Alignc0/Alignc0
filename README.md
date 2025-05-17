@@ -2,7 +2,6 @@
 
 <p align="center">
   Yapay zeka ve Python dünyasında ilerleyen bir geliştiriciyim.<br>
-  Hedefim: Savunma sanayii ve akıllı sistemler alanında yenilikçi çözümler üretmek.
 </p>
 
 
