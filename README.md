@@ -14,9 +14,13 @@ Hedefim, savunma sanayiine yönelik projeler geliştirerek hem teknolojik geliş
 - 🔐 Savunma Sanayii Uygulamaları
 - 🧠 Algoritmalar ve Problem Çözme
 - 🛠 Donanım + Yazılım Entegrasyonu
+  
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" height="50"/>
   <img src="https://img.icons8.com/color/100/python.png" alt="Python" height="50"/>
+  <img src="https://img.icons8.com/ios/50/command-line.png" alt="Prompt Engineering" height="40"/>
+</p>
+
 </p>
 
 
