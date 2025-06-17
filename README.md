@@ -9,6 +9,7 @@ Hedefim, savunma sanayiine yönelik projeler geliştirerek hem teknolojik geliş
 ### 🚀 İlgi Alanlarım
 
 - 🤖 Yapay Zeka (Makine Öğrenimi, Derin Öğrenme)
+- 🎯 Prompt Mühendisliği ve etkili soru sorma Yöntemleri
 - 🧩 Python ile Proje Geliştirme
 - 🔐 Savunma Sanayii Uygulamaları
 - 🧠 Algoritmalar ve Problem Çözme
@@ -20,7 +21,7 @@ Hedefim, savunma sanayiine yönelik projeler geliştirerek hem teknolojik geliş
 
 ### 🎯 Hedefim Nedir?
 
-Kendimi savunma teknolojileri alanında uzmanlaştırmak. Hem yazılım hem de donanımın bir araya geldiği inovatif projeler üretmek. Yapay zekanın askeri ve güvenlik alanındaki potansiyelini ortaya koyacak çözümler geliştirmek istiyorum.
+I want to specialize in defense technologies. I want to produce innovative projects that combine both software and hardware. I want to develop solutions that will reveal the potential of artificial intelligence in the military and security fields.
 
 ---
 
